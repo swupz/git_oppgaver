@@ -1,0 +1,1 @@
+Dette filen skal bli brukt til å test ut git pull.
